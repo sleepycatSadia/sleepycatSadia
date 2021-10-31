@@ -11,13 +11,13 @@
  <img height="195px" width ="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepycatSadia&theme=dark" />
   </a>
   <a href="https://github.com/sleepycatSadia">
- <img height="195px" width ="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true" />
+ <img height="250px" width ="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true&width=70%)
+
 
 
 <br/>
@@ -26,7 +26,7 @@
 
 <!--<img  align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&area=true&hide_border=false&layout=compact" width="500px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sleepycatSadia&label=Profile%20views&color=0e75b6&style=flat" alt="sleepycatSadia" /> </p>
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true&width=70%)
 **sleepycatSadia/sleepycatSadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
