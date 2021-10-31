@@ -14,7 +14,7 @@
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true&width=70%)
 
 
 <br/>
