@@ -11,7 +11,7 @@
  <img height="195px" width ="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepycatSadia&theme=dark" />
   </a>
   <a href="https://github.com/sleepycatSadia">
- <img height="250px" width ="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=true&area=true" />
+ <img height="300px" width ="65%" align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&hide_border=false&area=true" />
   </a>
 </p>
 </details>
