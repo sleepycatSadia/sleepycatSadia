@@ -6,6 +6,9 @@
   <a href="https://github.com/sleepycatSadia">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepycatSadia&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+ <a href="https://github.com/sleepycatSadia">
+ <img height="195px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepycatSadia&theme=dark" alt="sleepycatSadia" />
+  </a>
 </p>
 </details>
 <br>
@@ -16,9 +19,8 @@
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sleepycatSadia/sleepycatSadia/blob/main/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
-<img width="100%" height="195px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepycatSadia&theme=dark" alt="sleepycatSadia" />
-<img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=sleepycatSadia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepycatSadia&langs_count=20&theme=dark&layout=compact" />
+
+
 
 <!--<img  align="center" src="https://activity-graph.herokuapp.com/graph?username=sleepycatSadia&theme=react-dark&area=true&hide_border=false&layout=compact" width="500px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sleepycatSadia&label=Profile%20views&color=0e75b6&style=flat" alt="sleepycatSadia" /> </p>
